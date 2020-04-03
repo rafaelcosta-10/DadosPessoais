@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DadosPessoais</string>
+    <string name="name">Name</string>
+    <string name="enviar_dados">Enviar Dados</string>
+</resources>
